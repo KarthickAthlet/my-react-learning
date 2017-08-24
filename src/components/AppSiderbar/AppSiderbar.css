@@ -1,0 +1,16 @@
+.AppSiderbar nav{
+    overflow-y: auto;
+    height: 705px;
+}
+
+.AppSiderbar {
+    width: 100%;
+}
+
+ul li.nav-item:hover {
+    background: #e4e4e4;
+}
+
+ul li a.nav-link {
+    font-size: 14px;
+}

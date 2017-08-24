@@ -1,0 +1,10 @@
+.AppContent {
+    height: 705px;
+    background: rgb(252, 252, 252);
+    color: #6d6d6d;
+    overflow-y: auto;
+}
+
+.AppContent section {
+    padding: 30px;
+}
