@@ -98,7 +98,7 @@ class AppSiderbar extends Component {
                             <a className="nav-link" href="#">Libraries</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Accessibility</a>
+                            <a className="nav-link" href="#">Accessibility guidelines</a>
                         </li>
                     </ul>
                 </nav>
