@@ -13,7 +13,7 @@ class AppHeader extends Component {
                         <a className="navbar-brand" href="#">React Docs</a>
                         <div className="collapse navbar-collapse" id="navbarsExampleDefault">
                             <form className="form-inline mt-2 mt-md-0">
-                                <input className="form-control mr-sm-2" type="text" placeholder="Search" />
+                                <input className="form-control mr-sm-2" type="text" placeholder="Search" name="Search"/>
                             </form>
                         </div>
                     </nav>
