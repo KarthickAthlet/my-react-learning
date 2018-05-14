@@ -25,7 +25,7 @@ npm start`;
             <div className="AppContent">
                 <section>
                     <h2 id="assumptions">
-                        Installation
+                        Installation Procedure
                     </h2>
                     <pre className=" language-bash">
                         <code className=" language-bash">
